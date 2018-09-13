@@ -9,11 +9,11 @@ weight: 50
 
 ## FTP site
 
-Go to <a href="ftp://yuftp@192.168.206.171/Share">Yulab_Share</a>
+Go to [Yulab_Share](ftp://yuftp:192.168.206.171/Share)
 
-Ask admin for the **password** to access the FTP site. 
+Ask Wang Ming for the **password** to access the FTP site. 
 
-Ming Wang  <mailto:wangming@ibp.ac.cn>, <13910849125>
+ <mailto:wangming@ibp.ac.cn>, <13910849125>
 
 
 
