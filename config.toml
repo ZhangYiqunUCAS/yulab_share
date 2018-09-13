@@ -1,4 +1,4 @@
-baseURL = "/notebook"
+baseURL = "/yulab_share"
 publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"   # en / zh-cn
@@ -44,11 +44,6 @@ copyright = "MW"            # default: author.name ↓
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "Yulab_Share"
-  weight = 50
-  identifier = "yulab_share"
-  url = "ftp://yuftp:192.168.206.171/Share/"
 
 
 [params]
