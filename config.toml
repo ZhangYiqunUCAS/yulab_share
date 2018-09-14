@@ -53,7 +53,7 @@ copyright = "MW"            # default: author.name ↓
   since = "2017"            # Site creation time
 
   # site info (optional)
-  logoTitle = "Yu"        # default: the title value
+  logoTitle = "Yulab"        # default: the title value
   keywords = ["piRNA", "GoldCLIP", "ncRNA"]
   description = "Share materials"
 

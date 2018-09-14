@@ -5,7 +5,7 @@ lastmod: 2018-09-13T19:28:35+08:00
 draft: false
 keywords: ["Julius Brennecke"]
 description: ""
-tags: ["Julius", "piRNA"]
+tags: ["Julius", "piRNA", "Gene expression", "TE", "video"]
 categories: ["biology"]
 author: "Ming Wang"
 
@@ -37,7 +37,7 @@ sequenceDiagrams:
 
 <!--more-->
 
-<video width="1024" height="768" controls>
+<video width="600" height="450" controls>
   <source src="http://159.226.118.232/open/upload/video/Carnegie_Embryology_Minisymposium_2018-Julius_Brennecke-Hacking_the_Gene_Expression_Machinery.mp4" type="video/mp4">
   <source src="http://159.226.118.232/open/upload/video/Carnegie_Embryology_Minisymposium_2018-Julius_Brennecke-Hacking_the_Gene_Expression_Machinery.mp4" type="video/ogg">
 Your browser does not support the video tag.
