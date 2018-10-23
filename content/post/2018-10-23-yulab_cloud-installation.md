@@ -6,6 +6,49 @@ tags: ["yulab_cloud"]
 
 ---
 
+
+## NextCloud管理
+
+### 用户管理
+
++ 增加\删除用户
+
+使用管理员账号登录网页，`设置->用户` 进行相关操作。
+
+<!--more-->
+
++ 禁用\开启 用户
+
+```
+$ sudo -u www-data php occ user:disable <username>
+$ sudo -u www-data php occ user:enable <username>
+```
+
++ 找回管理员密码
+
+```
+$ sudo -u www-data php /var/www/nextcloud/occ user:resetpassword admin
+```
+
++ 恢复被误删的文件
+
+```
+$ 
+```
+
++ Backup and Recover
+
+data files, MySQL, configuration files
+
+```
+
+```
+
+
+
+
+
+
 测试环境：`Ubuntu 18.04 LTS`
 
 ## 安装方法
@@ -106,34 +149,6 @@ $ sudo -u www-data php occ maintenance:install --database "mysql" --database-nam
 [Install on Linux](https://docs.nextcloud.com/server/14/admin_manual/installation/source_installation.html#pretty-urls-label)
 
 [命令行安装NextCloud](https://docs.nextcloud.com/server/14/admin_manual/installation/command_line_installation.html)
-
-## NextCloud管理
-
-### 用户管理
-
-+ 增加\删除用户
-
-使用管理员账号登录网页，`设置->用户` 进行相关操作。
-
-+ 禁用\开启 用户
-
-```
-$ sudo -u www-data php occ user:disable <username>
-$ sudo -u www-data php occ user:enable <username>
-```
-+ 找回管理员密码
-
-```
-$ sudo -u www-data php /var/www/nextcloud/occ user:resetpassword admin
-```
-+ 恢复被误删的文件
-
-```
-$ 
-```
-
-
-
 
 
 
