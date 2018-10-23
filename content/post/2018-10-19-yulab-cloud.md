@@ -1,23 +1,10 @@
 ---
-title: "Yulab_cloud"
+title: "Yulab_cloud full version"
 date: 2018-10-19T23:33:59+08:00
-draft: false
+draft: true
 tags: ["yulab_cloud"]
 
 ---
-
-点击  [>>>这里<<<](http://192.168.206.171/yulab_cloud)  进入`yulab_cloud`.    
-
-
-`Yulab_cloud`目前处于测试期（2018年10月20日--2018年12月20日）    
-
-随时有可能**无法访问**，或者有稀奇古怪的各种问题，请大家到本页面尾部留言。    
-
-前往 `Yulab_cloud`，希望你能找到留言的地方（真的会有）。    
-
-
-<!--more-->
-
 
 `Yulab_cloud`是使用`NextCloud`为小规模团队文件共享而创建的私有云。内置了文件管理、图片相册、日历联系人、~~两步验证~~、~~RSS阅读~~等丰富的应用。
 
@@ -118,11 +105,6 @@ Archive
 
 分享有些分析结果，工作报告等。
 
-
-Enjoy.
-
-<!--
-
 ## 电脑客户端
 
 既然称作`云`，怎么少得了客户端访问呢。
@@ -170,15 +152,5 @@ Enjoy.
 
 从手机的应用市场搜索 "nextcloud" （例如，豌豆荚）并安装。
 
--->
-
-### Comments
-
-Any suggestions and bugs for the website `yulab_cloud` are welcome. Please write your ideas here if you can see the following wiindow at the bottom of the page. (For some reasons you know, it might be blocked)
-
-
-<figure>
-  <img src="http://159.226.118.232/open/upload/img/yulab_share_config/yulab_cloud-login-04.png" alt="Yulab share configure 03" width="600" height="450">
-</figure>
-
+Enjoy.
 
