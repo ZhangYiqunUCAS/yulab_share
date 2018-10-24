@@ -1,12 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+title: "Yulab HiSeq"
+date: 2018-10-23T16:34:40+08:00
+draft: false
 
-keywords: []
-description: ""
-tags: []
-categories: []
+tags: ["hiseq"]
+categories: ["biology"]
+
 author: "Ming Wang"
 
 # You can also close(false) or open(true) something for this content.
@@ -31,4 +30,9 @@ sequenceDiagrams:
   options: ""
 
 ---
+
+# Usage
+
+leave a message here
+
 
